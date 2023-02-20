@@ -1,0 +1,13 @@
+.left_friend_li{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.left_friend_img{
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 10px;
+}

@@ -1,0 +1,31 @@
+.friendList{
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.onlineContainer{
+    margin-right: 10px;
+    position: relative;
+}
+.onlineSathi{
+    width: 40px;
+    height: 40px;
+    border-radius: 50px;
+    object-fit: cover;
+}
+
+.rightBarOnline{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background-color: lime;
+    top: -2;
+    position: absolute;
+    right: 0;
+    border: 2px solid white;
+}
+
+.onlineSathiName{
+    font-weight: 500;
+}
